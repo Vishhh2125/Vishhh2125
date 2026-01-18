@@ -10,16 +10,6 @@
 🤝 Connect with me at vishnuuplenchwar.professional@gmail.com
 </h4>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Vishhh2125&abbreviated=true&for-the-badge"  height="25" />
-</div>
-
-<br>
-
-<div align="center">
- <img src="https://nirzak-streak-stats.vercel.app?user=Vishhh2125&theme=nightowl" height="160" alt="GitHub Streak" />
-</div>
-
 <br>
 
 <div align="left">
@@ -28,9 +18,9 @@
     My Tech Stack:
   </h4>
   
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <!-- <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  /> -->
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  /> -->
   <!-- <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /> -->
@@ -52,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
   <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <!-- <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipse logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="eclipse logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  /> -->
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
@@ -89,15 +79,15 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
   </a>
 
-  <a href="https://x.com/safwan_say" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img src="/assets/x.svg" width="47" height="35" alt="x logo"  />
   </a>
 
-  <a href="https://reddit.com/u/safwan_say" target="_blank">
+  <a href="https://reddit.com/" target="_blank">
     <img src="/assets/reddit.svg" width="47" height="35" alt="reddit logo"  />
   </a>
 
-  <a href="https://www.instagram.com/safwan_say1" target="_blank">
+  <a href="https://www.instagram.com/vishhh__2125/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="47" height="35" alt="instagram logo"  />
   </a>
   
